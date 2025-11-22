@@ -1,0 +1,5 @@
+{
+  "name": "Perfume Jessi Dubai Catálog",
+  "description": "An intelligent tool to extract, modify, and export perfume price lists from PDF catalogs using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
